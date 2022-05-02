@@ -1,0 +1,156 @@
+Added Component: Designator=C1(Capacitor POL SMD D10.0 H10.0)
+Add component (AddParameter): Name = "Value"; Value = "68uF/63V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAPACITOR 1608 REFLOW)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPACITOR 2012 REFLOW)
+Add component (AddParameter): Name = "Value"; Value = "68uF/6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAPACITOR 1608 REFLOW)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(Capacitor POL SMD D10.0 H10.0)
+Add component (AddParameter): Name = "Value"; Value = "68uF/63V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAPACITOR 1608 REFLOW)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAPACITOR 2012 REFLOW)
+Add component (AddParameter): Name = "Value"; Value = "68uF/6.3V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPACITOR 1608 REFLOW)
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SODFL4725X105N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-39/8680.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ROHM Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RB088LAM100TFTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "755-RB088LAM100TFTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/RB088LAM100TFTR?qs=F5EMLAvA7IBXK%2Ft6O%252B6mTA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SODFL4725X105N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://datasheet.datasheetarchive.com/originals/distributors/DKDS-39/8680.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.05mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ROHM Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RB088LAM100TFTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "755-RB088LAM100TFTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/RB088LAM100TFTR?qs=F5EMLAvA7IBXK%2Ft6O%252B6mTA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC1(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://datasheets.maximintegrated.com/en/ds/MAX5035.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX5035BASA+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "700-MAX5035BASA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX5035BASA%2b?qs=1THa7WoU59FgpJhZAGMb5g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(SOIC127P600X175-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://datasheets.maximintegrated.com/en/ds/MAX5035.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX5035BASA+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "700-MAX5035BASA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX5035BASA%2b?qs=1THa7WoU59FgpJhZAGMb5g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J1(1729131)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "1729131"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/1729131/phoenix-contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.phoenixcontact.com/de/produkte/1729131/pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "10.15mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Phoenix Contact"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1729131"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "651-1729131"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1729131?qs=GFUSqQMLmmkspw%2F%2FW6PC3g%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J2(PINHEADER2X6 P2.54 SIDE MOUNT)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J4(PINHEADER2X6 P2.54 SIDE MOUNT)
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L1(SPM7054VT)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SPM7054VT-101M-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/spm7054vt-101m-d/tdk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_spm7054vt-d_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SPM7054VT-101M-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "810-SPM7054VT-101M-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TDK/SPM7054VT-101M-D/?qs=byeeYqUIh0MPh4h9VcxBVA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=L2(SPM7054VT)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "SPM7054VT-101M-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/spm7054vt-101m-d/tdk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://product.tdk.com/system/files/dam/doc/product/inductor/inductor/smd/catalog/inductor_automotive_power_spm7054vt-d_en.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SPM7054VT-101M-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "810-SPM7054VT-101M-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/TDK/SPM7054VT-101M-D/?qs=byeeYqUIh0MPh4h9VcxBVA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESISTOR 1608 REFLOW)
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESISTOR 1608 REFLOW)
+Add component (AddParameter): Name = "Value"; Value = "384k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESISTOR 1608 REFLOW)
+Add component (AddParameter): Name = "Value"; Value = "1M"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESISTOR 1608 REFLOW)
+Add component (AddParameter): Name = "Value"; Value = "384k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=C7-2
+Added Pin To Net: NetName=+3V3 Pin=J4-11
+Added Pin To Net: NetName=+3V3 Pin=L2-2
+Added Net: Name=+3V3
+Added Pin To Net: NetName=+5 Pin=C3-2
+Added Pin To Net: NetName=+5 Pin=J2-11
+Added Pin To Net: NetName=+5 Pin=L1-2
+Added Net: Name=+5
+Added Pin To Net: NetName=+48V Pin=C1-1
+Added Pin To Net: NetName=+48V Pin=C5-1
+Added Pin To Net: NetName=+48V Pin=IC1-7
+Added Pin To Net: NetName=+48V Pin=IC2-7
+Added Pin To Net: NetName=+48V Pin=J1-1
+Added Pin To Net: NetName=+48V Pin=R1-2
+Added Pin To Net: NetName=+48V Pin=R3-2
+Added Net: Name=+48V
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=IC1-3
+Added Pin To Net: NetName=GND Pin=IC1-6
+Added Pin To Net: NetName=GND Pin=IC2-3
+Added Pin To Net: NetName=GND Pin=IC2-6
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J2-9
+Added Pin To Net: NetName=GND Pin=J4-9
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R4-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=IC1-1
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=D1-1
+Added Pin To Net: NetName=NetC2_2 Pin=IC1-8
+Added Pin To Net: NetName=NetC2_2 Pin=L1-1
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=IC1-2
+Added Net: Name=NetC4_1
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=NetC6_1 Pin=IC2-1
+Added Net: Name=NetC6_1
+Added Pin To Net: NetName=NetC6_2 Pin=C6-2
+Added Pin To Net: NetName=NetC6_2 Pin=D2-1
+Added Pin To Net: NetName=NetC6_2 Pin=IC2-8
+Added Pin To Net: NetName=NetC6_2 Pin=L2-1
+Added Net: Name=NetC6_2
+Added Pin To Net: NetName=NetC8_1 Pin=C8-1
+Added Pin To Net: NetName=NetC8_1 Pin=IC2-2
+Added Net: Name=NetC8_1
+Added Pin To Net: NetName=NetIC1_5 Pin=IC1-5
+Added Pin To Net: NetName=NetIC1_5 Pin=R1-1
+Added Pin To Net: NetName=NetIC1_5 Pin=R2-2
+Added Net: Name=NetIC1_5
+Added Pin To Net: NetName=NetIC2_5 Pin=IC2-5
+Added Pin To Net: NetName=NetIC2_5 Pin=R3-1
+Added Pin To Net: NetName=NetIC2_5 Pin=R4-2
+Added Net: Name=NetIC2_5
+Added Class: Name=PowerSupply
+Added Room: Name=PowerSupply
